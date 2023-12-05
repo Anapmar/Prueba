@@ -1,0 +1,63 @@
+		.img1 {
+			height: 60px;
+			width: 60px;
+		}
+		.img2 {
+			height:200px;
+			width: 230px;
+		}
+		.img3 {
+			height: 300px;
+			width: 600px;
+		}
+		.titulo1 {
+			font-family:"Arial";
+			color: black;
+			font-size: 40px;
+
+		}
+		img {
+			height: 250px;
+			width: 450px;
+		}
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: orangered;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.body1 {
+	background-image: url("fondo1.webp");
+}
+.body2 {
+	background-image: url("fondo2.jpg");
+}
+background-image{
+	height: 300px;
+	width: 420px;
+}
+.table1{
+	text-align: center;
+	background-color: white;
+	opacity: 0.99;
+	width: 10%;
+}
+	.table2{
+	text-align: center;
+	background-color: white;
+	opacity: 0.99;
+	width: 30%;
+}
